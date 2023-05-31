@@ -1,5 +1,5 @@
+<h1> 대회 링크 및 데이터 다운 </h1>
 <h2> https://myfactorydata.com/bbs/board.php?bo_table=competition&wr_id=2 </h2>
-----------------------------------------------
 <h5>
   분석목표 
 
@@ -45,4 +45,12 @@
 
    - QUALITY : MEASURED_WAVE_TEST.csv로부터 판별한 불량 여부 {GOOD : 정상, BAD : 불량}
   </h5>
+  
 <h2>분석 방법</h2>
+
+<h5>
+기준 파형 데이터를 기준으로 REFERENCE_ID와 매칭 시켜 차이를 구한후 파생변수화 하였음
+불량과 정상의 비율이 차이났기 때문에 Oversampling 후 MLP(Multilayer Perceptron)진행
+</h5>
+<h2> 역할 </h2>
+<h5> 팀장, 시계열 데이터 전처리 및 시각화 MLP 모델링 구현 </h5>
