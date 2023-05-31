@@ -1,4 +1,5 @@
-<h3> https://myfactorydata.com/bbs/board.php?bo_table=competition&wr_id=2 </h3>
+<h2> https://myfactorydata.com/bbs/board.php?bo_table=competition&wr_id=2 </h2>
+----------------------------------------------
 <h5>
   분석목표 
 
@@ -44,5 +45,4 @@
 
    - QUALITY : MEASURED_WAVE_TEST.csv로부터 판별한 불량 여부 {GOOD : 정상, BAD : 불량}
   </h5>
-  
-  
+<h2>분석 방법</h2>
