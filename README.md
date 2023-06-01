@@ -51,6 +51,11 @@
 <h5>
 기준 파형 데이터를 기준으로 REFERENCE_ID와 매칭 시켜 차이를 구한후 파생변수화 하였음
 불량과 정상의 비율이 차이났기 때문에 Oversampling 후 MLP(Multilayer Perceptron)진행
+   <img src="https://github.com/bidulgi123/2022Gyeongnam-Manufacturing-Data-Analysis-Contest/assets/121657338/1a7338d0-d4ae-463e-900b-83ecf1f264f4" alt="My Image">
+   <img src="https://github.com/bidulgi123/2022Gyeongnam-Manufacturing-Data-Analysis-Contest/assets/121657338/1a7338d0-d4ae-463e-900b-83ecf1f264f4" alt="My Image2">
 </h5>
 <h2> 역할 </h2>
 <h5> 팀장, 시계열 데이터 전처리 및 시각화 MLP 모델링 구현 </h5>
+
+<h5> 결과 </h5>
+<h2> 우수상 </h2>
